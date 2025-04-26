@@ -1,0 +1,1 @@
+javac -cp "lib/*" -encoding UTF-8 ComicTranslator.java
